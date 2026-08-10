@@ -10,21 +10,6 @@ Format: `[version] – date` with a brief summary of user-facing changes.
 
 ---
 
-## [1.6.1] – 2026-07-31
-
-RaceCoach 1.6.1 makes landscape analysis clearer and keeps the included Vic example ready whenever you need it.
-
-• Overview now uses landscape space more effectively, with a side-by-side map and speed chart on phones and improved map/chart proportions on tablets.
-• Video playback and lap comparison remain usable in short landscape windows, with bounded video panes and controls that stay accessible.
-• Navigation, chart labels and sector controls are larger and easier to read on tablets in both landscape and portrait.
-• Sector analysis uses a two-column tablet workspace so lap comparisons and time gained or lost can be reviewed together.
-• The included Vic example is now saved reliably, so it remains available after you import or open other sessions.
-• Free drivers can reopen the Vic example from the Session Library preview, while RaceCoach Pro drivers continue to manage it alongside their own saved sessions.
-
-Phone portrait layouts and text sizing remain unchanged.
-
----
-
 ## [1.6.0] – 2026-07-28
 
 RaceCoach 1.6.0 makes it easier to back up, move and restore your saved driving sessions.
