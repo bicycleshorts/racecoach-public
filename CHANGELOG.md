@@ -8,6 +8,15 @@ Format: `[version] – date` with a brief summary of user-facing changes.
 
 ## [Unreleased]
 
+RaceCoach AI now uses compact current-session and historical context to give more relevant, evidence-led guidance without sending raw telemetry or video.
+
+• Prioritises the gap between the current best lap and the session's achievable ultimate lap, using percentages that remain meaningful across different tracks and vehicles.
+• Can compare one recent faster same-track session, normalising broad day-to-day pace changes and sharing at most two notable local sector differences.
+• Uses robust good-versus-representative lap selection for video and sector evidence while excluding statistical outliers.
+• Supports bounded conversation context and validated video, map, sector-comparison and speed-trace actions.
+• Shows concise backend and provider error details when AI requests fail and keeps contextual payloads within explicit size limits.
+• Treats sectors as arbitrary track intervals, avoiding unsupported corner, braking, apex, throttle or racing-line claims when only sector timing is available.
+
 ---
 
 ## [1.6.1] – 2026-07-31
