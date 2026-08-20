@@ -10,6 +10,18 @@ Format: `[version] – date` with a brief summary of user-facing changes.
 
 ---
 
+## [1.7.1] – 2026-08-20
+
+RaceCoach 1.7.1 makes Pro subscription management clearer and improves usability on modern Android phones.
+
+• Manage RaceCoach Pro from a simpler screen with one clear purchase-access check and troubleshooting details available only when needed.
+• Keep subscription access accurate as purchases are restored, subscriptions expire or payments are declined, while retaining valid access during temporary store outages.
+• Stay compatible with current Google Play purchase requirements for reliable subscriptions and future Android releases.
+• Enjoy improved edge-to-edge presentation with clearer system-bar icons in light and dark mode.
+• Select navigation, map and Overview controls more easily, including on curved-screen Android devices.
+
+---
+
 ## [1.7.0] – 2026-08-13
 
 RaceCoach 1.7.0 makes setup clearer and gives you a more capable, reliable Overview workspace.
