@@ -10,6 +10,20 @@ Format: `[version] – date` with a brief summary of user-facing changes.
 
 ---
 
+## [1.7.2] – 2026-08-24
+
+RaceCoach 1.7.2 makes longer GoPro recordings easier to import and analyse.
+
+• RaceCoach Pro can find related GoPro video chapters, let you review the clips and combine their telemetry into one session.
+• Keep laps that cross between GoPro files available for lap timing, sector analysis and video comparison.
+• Store chapter-aware video references so saved multi-file sessions can reconnect each original clip.
+• Continue importing an individual video normally when no related GoPro chapters are available or required.
+• Improved video-chart stability when navigating rapidly between laps and clips.
+
+GoPro chapter combining remains a RaceCoach Pro feature. The standard video import remains available without a Pro subscription.
+
+---
+
 ## [1.7.1] – 2026-08-20
 
 RaceCoach 1.7.1 makes Pro subscription management clearer and improves usability on modern Android phones.
