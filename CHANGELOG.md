@@ -10,6 +10,19 @@ Format: `[version] – date` with a brief summary of user-facing changes.
 
 ---
 
+## [1.8.0] – 2026-08-25
+
+RaceCoach 1.8 adds GoPro multi-chapter recording support for RaceCoach Pro.
+
+• Find and combine related GoPro video chapters into one continuous session.
+• Play laps and sectors across chapter boundaries without losing video or timing data.
+• Compare laps and build best-lap playback when sectors span different video files.
+• Improved sector alignment, chart cursor stability and video import error handling.
+
+Standard single-video import remains available without a Pro subscription.
+
+---
+
 ## [1.7.2] – 2026-08-24
 
 RaceCoach 1.7.2 makes longer GoPro recordings easier to import and analyse.
