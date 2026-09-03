@@ -10,6 +10,16 @@ Format: `[version] – date` with a brief summary of user-facing changes.
 
 ---
 
+## [1.8.1] – 2026-09-03
+
+RaceCoach 1.8.1 adds reliable GPS telemetry import for GoPro HERO13 recordings.
+
+• Decode the HERO13 GPS9 telemetry format, including location, altitude, speed, GPS accuracy and fix status.
+• Use the camera's precise GPS9 timestamps for recording time and improved video-to-telemetry alignment.
+• Reject malformed telemetry type descriptors safely while retaining existing GPS5 support for earlier GoPro models.
+
+---
+
 ## [1.8.0] – 2026-08-25
 
 RaceCoach 1.8 adds GoPro multi-chapter recording support for RaceCoach Pro.
