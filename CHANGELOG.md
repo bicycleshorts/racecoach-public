@@ -10,6 +10,16 @@ Format: `[version] – date` with a brief summary of user-facing changes.
 
 ---
 
+## [1.8.2] – 2026-09-19
+
+RaceCoach 1.8.2 makes GoPro import problems easier to understand and resolve.
+
+• Clearer import messages explain whether GPS is missing, a signal was unavailable or a recording is unsuitable for lap analysis.
+• Videos containing unreadable GPS data are now identified correctly instead of being reported as having no GPS.
+• More detailed, privacy-safe diagnostics help us investigate camera compatibility issues without collecting local file paths.
+
+---
+
 ## [1.8.1] – 2026-09-03
 
 RaceCoach 1.8.1 adds reliable GPS telemetry import for GoPro HERO13 recordings.
