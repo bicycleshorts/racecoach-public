@@ -10,6 +10,22 @@ Format: `[version] – date` with a brief summary of user-facing changes.
 
 ---
 
+## [1.9.0] – 2026-10-05
+
+RaceCoach 1.9 adds premium telemetry video exports for sharing and reviewing complete laps.
+
+• Export one lap or a two-lap comparison as a finished MP4 on Android and iOS.
+• Add synchronized speed, lap timing, track position, racing lines and speed traces directly to exported videos.
+• Choose landscape or portrait layouts, clean or analysis presentation, full-video or crop framing and the telemetry elements to include.
+• Follow the current section of the circuit in map and speed-trace views, with fixed or dynamic speed scaling for consistent comparison or greater local detail.
+• Preview export layouts and telemetry choices before rendering the video.
+• Compare laps from the same session or different sessions with consistent lap colours, timing and video synchronization.
+• Improved source validation, export progress, error messages and native video rendering reliability across Android and iOS.
+
+RaceCoach telemetry video export is available as a RaceCoach Pro feature.
+
+---
+
 ## [1.8.2] – 2026-09-19
 
 RaceCoach 1.8.2 makes GoPro import problems easier to understand and resolve.
