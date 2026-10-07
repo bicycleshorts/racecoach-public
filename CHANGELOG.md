@@ -10,6 +10,20 @@ Format: `[version] – date` with a brief summary of user-facing changes.
 
 ---
 
+## [1.10.0] – 2026-10-08
+
+RaceCoach 1.10 introduces a focused video analysis workspace for reviewing laps alongside synchronized telemetry.
+
+• Review one or two videos with responsive layouts designed for compact portrait phones, landscape analysis and full-screen playback.
+• Switch between balanced, speed-focused, racing-line and video-only views without leaving the playback workspace.
+• Inspect full-lap telemetry, follow the current position with fixed or automatically scaled speed axes, or focus analysis on the active sector.
+• Pin a sector to jump both video and telemetry to its entry and stop accurately at its exit, including laps that cross GoPro chapter boundaries.
+• Use streamlined, scrollable playback controls with consistent lap colours and more efficient chart labels for small screens.
+• Compare thinner racing lines and synchronized speed traces while preserving usable telemetry space around side-by-side videos.
+• Improved Android comparison stability, decoder lifecycle handling, source transitions and replay behaviour.
+
+---
+
 ## [1.9.0] – 2026-10-05
 
 RaceCoach 1.9 adds premium telemetry video exports for sharing and reviewing complete laps.
