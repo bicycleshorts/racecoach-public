@@ -10,6 +10,21 @@ Format: `[version] – date` with a brief summary of user-facing changes.
 
 ---
 
+## [1.11.0] – 2026-11-04
+
+RaceCoach 1.11 expands telemetry video export for complete sessions and brings exported comparisons into line with the live Video workspace.
+
+• Export an individual lap, a consecutive multi-lap range or a complete session across all linked video clips, with duration and storage estimates before rendering.
+• Compare a lap against another lap or the session's Ultimate lap using a continuous telemetry-derived time delta overlaid directly on the footage.
+• Follow the active lap and sector through multi-lap exports while keeping track maps and speed traces stable before the first timed lap and after the last.
+• Review an Ultimate lap assembled from the fastest sectors with source-lap colours preserved across video, track map and speed telemetry.
+• Start from Lap 1 with Balanced, Follow and automatic speed scaling, while remembering layout, telemetry and selected-lap choices when returning to Video.
+• Improved linked-clip stitching, export audio handling, progress and size feedback, missing-video recovery, compact layouts and comparison labels across Android and iOS.
+
+RaceCoach Pro is required for premium comparison and telemetry export features.
+
+---
+
 ## [1.10.0] – 2026-10-08
 
 RaceCoach 1.10 introduces a focused video analysis workspace for reviewing laps alongside synchronized telemetry.
